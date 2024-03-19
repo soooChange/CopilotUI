@@ -1,0 +1,13 @@
+D:\DotNetFiles\CopilotUI\bin\Debug\CopilotUI.exe.config
+D:\DotNetFiles\CopilotUI\bin\Debug\CopilotUI.exe
+D:\DotNetFiles\CopilotUI\bin\Debug\CopilotUI.pdb
+D:\DotNetFiles\CopilotUI\obj\Debug\CopilotUI.csproj.AssemblyReference.cache
+D:\DotNetFiles\CopilotUI\obj\Debug\CopilotUI.Properties.Resources.resources
+D:\DotNetFiles\CopilotUI\obj\Debug\CopilotUI.csproj.GenerateResource.cache
+D:\DotNetFiles\CopilotUI\obj\Debug\CopilotUI.csproj.CoreCompileInputs.cache
+D:\DotNetFiles\CopilotUI\obj\Debug\CopilotUI.pdb
+D:\WorkTools\WorkTools\WorkTools\bin\Debug\CopilotUI.pdb
+D:\WorkTools\WorkTools\WorkTools\bin\Debug\CopilotUI.dll.config
+D:\WorkTools\WorkTools\WorkTools\bin\Debug\CopilotUI.dll
+D:\DotNetFiles\CopilotUI\obj\Debug\CopilotUI.dll
+D:\DotNetFiles\CopilotUI\obj\Debug\CopilotUI.Controls.UITextBox.resources
